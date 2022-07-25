@@ -4,6 +4,7 @@ def run():
     print (f'El doble de su numero es: {suma}')
 
 #ESTE ES UN COMENTARIO Y QUIERO VER SI FUNCIONA CON GIT HUB
+#este es con minuscula y lo estoy haciendo desde la pagina de github
 
 
 
